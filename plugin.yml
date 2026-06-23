@@ -1,0 +1,4 @@
+name: NPC
+api: 2.0.0
+main: npc\NPCMain
+version: 1.0
